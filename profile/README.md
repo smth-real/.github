@@ -1,2 +1,2 @@
-![Logo](https://github.com/smth-ext/.github/blob/main/profile/smth_banner.png?raw=true)
+![Logo](https://github.com/lwt-softworks/.github/blob/main/profile/lwt_banner.png?raw=true)
 a team of 3 guys that want make opensource things
